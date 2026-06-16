@@ -1,0 +1,13 @@
+--------------------------
+react state ve event notlarim
+Event
+<button onClick ={()={alert("deneme")}}> deneme </button>
+
+State
+reactin gizli hafizasidir.
+sayfa yenilenmeden veriyi guncellemeyi saglar.
+single page appin ilkel versiyonu gibi.
+
+
+
+-------------------------
